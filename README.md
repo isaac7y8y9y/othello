@@ -1,0 +1,2 @@
+# othello
+this plays othello
